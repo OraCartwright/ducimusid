@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.2.0-canary.4",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
